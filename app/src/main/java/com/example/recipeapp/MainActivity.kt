@@ -22,8 +22,6 @@ import androidx.navigation.NavController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.example.recipeapp.Navigation.RecipeNavGraph
-import androidx.compose.ui.graphics.vector.ImageVector
-import androidx.compose.ui.text.TextStyle
 import com.example.recipeapp.model.NavigationItem
 
 class MainActivity : ComponentActivity() {
